@@ -1,4 +1,6 @@
-[![Header](https://github.com/mavafadar/mavafadar/blob/main/header.gif "Header")](https://mavafadar.github.io/personal/)
+<p align="center">
+  <img src="https://github.com/mavafadar/mavafadar/blob/main/header.gif" />
+</p>
 
 # :wave: Hey There!
 
@@ -8,13 +10,16 @@ My name is Mohammad Amin Vafadar, and I am a Blockchain Researcher at the Univer
 [1]: https://www.linkedin.com/in/ma-vafadar/
 
 # 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framwork-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Framwork-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a"/>
+</p>
 
 # &#x1f4c8; GitHub Stats
 <div align="center">
