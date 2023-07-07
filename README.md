@@ -4,7 +4,7 @@
 
 # :wave: Hey There!
 
-My name is Mohammad Amin Vafadar, and I am a Blockchain Researcher at the University of Alberta; and interested in Software Engineering. I am an Iranian living in Edmonton, Canada. You can find me on [![LinkedIn][1.1]][1].
+My name is Mohammad Amin Vafadar, and I am a Blockchain Security Researcher at the University of Alberta; and interested in Blockchain and Smart Contract Security. I am an Iranian living in Edmonton, Canada. You can find me on [![LinkedIn][1.1]][1].
 
 [1.1]: https://github.com/mavafadar/mavafadar/blob/main/linkedin.png?raw=true
 [1]: https://www.linkedin.com/in/ma-vafadar/
@@ -12,13 +12,16 @@ My name is Mohammad Amin Vafadar, and I am a Blockchain Researcher at the Univer
 # 🔧 Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vs&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Framwork-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Framwork-HardHat-informational?style=flat&logo=hardhat&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Framwork-Ethers.js-informational?style=flat&logo=hardhat&logoColor=ethers.js&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Framework-Brownie-informational?style=flat&logo=brownie&logoColor=white&color=2bbc8a"/>
 </p>
 
 # &#x1f4c8; GitHub Stats
