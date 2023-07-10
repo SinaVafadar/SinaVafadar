@@ -4,7 +4,7 @@
 
 # :wave: Hey There!
 
-My name is Mohammad Amin Vafadar, and I am a Blockchain Security Researcher at the University of Alberta; and interested in Blockchain and Smart Contract Security. I am an Iranian living in Edmonton, Canada. You can find me on [![LinkedIn][1.1]][1].
+My name is Mohammad Amin Vafadar, and I am a Blockchain Security Researcher and Engineer at the University of Alberta; and interested in Blockchain and Smart Contract Security. I am an Iranian living in Edmonton, Canada. You can find me on [![LinkedIn][1.1]][1].
 
 [1.1]: https://github.com/mavafadar/mavafadar/blob/main/linkedin.png?raw=true
 [1]: https://www.linkedin.com/in/ma-vafadar/
