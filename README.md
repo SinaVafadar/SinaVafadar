@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/mavafadar/mavafadar/blob/main/header.gif" />
+  <img src="https://github.com/sinavafadar/sinavafadar/blob/main/header.gif" />
 </p>
 
 # :wave: Hey There!
 
 My name is Mohammad Amin Vafadar, and I am a Blockchain Security Researcher and Engineer at the University of Alberta; and interested in Blockchain and Smart Contract Security. I am an Iranian living in Edmonton, Canada. You can find me on [![LinkedIn][1.1]][1].
 
-[1.1]: https://github.com/mavafadar/mavafadar/blob/main/linkedin.png?raw=true
+[1.1]: https://github.com/sinavafadar/sinavafadar/blob/main/linkedin.png?raw=true
 [1]: https://www.linkedin.com/in/ma-vafadar/
 
 # 🔧 Technologies & Tools
@@ -26,10 +26,10 @@ My name is Mohammad Amin Vafadar, and I am a Blockchain Security Researcher and 
 
 # &#x1f4c8; GitHub Stats
 <div align="center">
-  <a href="https://github.com/mavafadar/mavafadar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavafadar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <a href="https://github.com/sinavafadar/sinavafadar">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinavafadar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </a>
-  <a href="https://github.com/mavafadar/mavafadar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mavafadar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <a href="https://github.com/sinavafadar/sinavafadar">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sinavafadar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
   </a>
 </div>
